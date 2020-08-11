@@ -50,4 +50,13 @@
 **Link(s) to work**
 1. [JavaScript + CSS  analog clock ](https://github.com/peesajagadeesh/Javascript30/commit/b2cc064bd8234e96b0846bfa0160ded76b605425)
 2. [LeetCode August challenge ](https://github.com/peesajagadeesh/LeetCode/commit/d883b3de066c440a3a9e4256dba503fc4a87ff9d)
+### Day 3: August 10 2020, Monday
+
+**Today's Progress**: I've created CSSthrough JS and LeetCode challenge.
+
+**Thoughts** Need to get through this faster.Plan and schedule rem days tomorrow.
+
+**Link(s) to work**
+1. [CSS through JS ](https://github.com/peesajagadeesh/Javascript30/commit/c39ccefed46f3b3c7ec5e21db4e9d3ee1fd99f86)
+2. [LeetCode August challenge ](https://github.com/peesajagadeesh/LeetCode/commit/b198801eb599733827a914786f3e60e046f82e2d)
 
